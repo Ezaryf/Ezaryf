@@ -10,22 +10,22 @@
 
 🛠️ **Crafting the Future**: I thrive on challenges, weaving together my skills in debugging, RESTful APIs, and MVC architecture to create software solutions that are not just functional but elegant.
 
-## Skills & Technologies
+## Skills & Technologies 🚀
 
 Here's a glimpse into my magical toolkit:
 
-- **Languages**: Java | Python | Angular JavaScript
-- **Data Sorcery**: JSON | Oracle Database
-- **Coding Spells**: VSCode | RESTful APIs | Postman | Debugging
-- **Version Control Alchemy**: Git | Github
-- **Team Wizardry**: Jira | Agile Methodologies | Collaborative Teamwork
-- **Architectural Charms**: MVC | Object-oriented programming
+- **Languages** 💬: Java | Python | Angular JavaScript
+- **Data Sorcery** 📊: JSON | Oracle Database
+- **Coding Spells** ✨: VSCode | RESTful APIs | Postman | Debugging
+- **Version Control Alchemy** 🧙: Git | Github
+- **Team Wizardry** 🤝: Jira | Agile Methodologies | Collaborative Teamwork
+- **Architectural Charms** 🏰: MVC | Object-oriented programming
 
 ## Let's Connect 🌟
 
-📫 **How to reach me**: https://www.linkedin.com/in/ezaryf/
+📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/ezaryf/) 🚀
 
-✨ **Fun Fact**: I play Dota 2 a lot. Can you feel my magic? 
+✨ **Fun Fact**: I play Dota 2 a lot. Can you feel my magic? 🎮
 
 Join me on this magical journey as we explore the wonders of technology together! 🚀✨
 
