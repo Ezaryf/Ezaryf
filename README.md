@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Ezaryf! 👋
 
 🚀 As a passionate and dynamic software developer, I am driven by the thrill of creating innovative and practical solutions through the art of programming. My insatiable curiosity and relentless pursuit of knowledge fuel my journey to stay at the forefront of technology.
 
@@ -23,11 +23,9 @@ Here's a glimpse into my magical toolkit:
 
 ## Let's Connect 🌟
 
-📫 **How to reach me**: [Your Email or Social Media Handles]
+📫 **How to reach me**: https://www.linkedin.com/in/ezaryf/
 
-🤖 **Pronouns**: [Your Pronouns]
-
-✨ **Fun Fact**: [Interesting Fact about Yourself]
+✨ **Fun Fact**: I play Dota 2 a lot. Can you feel my magic? 
 
 Join me on this magical journey as we explore the wonders of technology together! 🚀✨
 
