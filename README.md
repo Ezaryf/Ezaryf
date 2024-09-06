@@ -21,6 +21,8 @@ Here's a glimpse into my magical toolkit:
 - **Team Wizardry** 🤝: Jira | Agile Methodologies | Collaborative Teamwork
 - **Architectural Charms** 🏰: MVC | Object-oriented programming
 
+![snake gif](https://github.com/Ezaryf/Ezaryf/blob/output/github-contribution-grid-snake.gif)
+
 ## Let's Connect 🌟
 
 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/ezaryf/) 🚀
