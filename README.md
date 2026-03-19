@@ -1,47 +1,76 @@
 # Hi there, I'm Ezaryf! 👋
 
-🚀 As a passionate and dynamic software developer, I am driven by the thrill of creating innovative and practical solutions through the art of programming. My insatiable curiosity and relentless pursuit of knowledge fuel my journey to stay at the forefront of technology.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=200&section=header&text=Ezaryf&fontSize=90&animation=fadeIn&fontAlignY=38" />
+</p>
 
-## About Me
+<p align="center">
+  <a href="https://github.com/Ezaryf">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D2FF&center=true&vCenter=true&width=435&lines=Software+Developer;Dota+2+Wizard;Open+Source+Enthusiast;Constant+Learner" alt="Typing SVG" />
+  </a>
+</p>
 
-🌐 **Discoverer of Knowledge**: I'm someone who is not just content with what I know; I'm constantly on the lookout to learn fast and delve into the realms of new technologies and techniques.
+---
 
-💻 **Coding Wizardry**: With a wizard's wand in the form of a keyboard, I've conjured solutions using an enchanting mix of Java, Python, Angular JavaScript, and more. My skills extend to navigating the intricacies of JSON, dancing with Oracle Databases, and wielding VSCode like a pro.
+### 🚀 About Me
 
-🛠️ **Crafting the Future**: I thrive on challenges, weaving together my skills in debugging, RESTful APIs, and MVC architecture to create software solutions that are not just functional but elegant.
+I am a passionate and dynamic **Software Developer** driven by the thrill of crafting innovative solutions. With a "wizard's wand" (my keyboard), I conjure elegant code and dance with data.
 
-## Skills & Technologies 🚀
+- 🌐 **Discoverer of Knowledge**: Fast learner, always exploring new tech.
+- 💻 **Coding Sorcery**: Specialized in Java, Python, and Angular.
+- 🛠️ **Future Crafter**: Focused on RESTful APIs, MVC architecture, and clean code.
+- 🎮 **Fun Fact**: Legendary Dota 2 player — feel the magic!
 
-Here's a glimpse into my magical toolkit:
+---
 
-- **Languages** 💬: Java | Python | Angular JavaScript
-- **Data Sorcery** 📊: JSON | Oracle Database
-- **Coding Spells** ✨: VSCode | RESTful APIs | Postman | Debugging
-- **Version Control Alchemy** 🧙: Git | Github
-- **Team Wizardry** 🤝: Jira | Agile Methodologies | Collaborative Teamwork
-- **Architectural Charms** 🏰: MVC | Object-oriented programming
+### 🛠️ Magical Toolkit
 
-<!-- ![snake gif](https://github.com/Ezaryf/Ezaryf/blob/output/github-contribution-grid-snake.gif) -->
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
-## Let's Connect 🌟
+<p align="left">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
-📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/ezaryf/) 🚀
+---
 
-✨ **Fun Fact**: I play Dota 2 a lot. Can you feel my magic? 🎮
+### 📊 GitHub Stats
 
-Join me on this magical journey as we explore the wonders of technology together! 🚀✨
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ezaryf&show_icons=true&theme=tokyonight&count_private=true" alt="Ezaryf's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezaryf&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
-<!--
-**Ezaryf/Ezaryf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ezaryf&theme=tokyonight" alt="Trophies" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ezaryf/Ezaryf/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
+### 📬 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ezaryf/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ezaryf&color=00d2ff&style=flat-square" alt="Profile Views" />
+</p>
+
