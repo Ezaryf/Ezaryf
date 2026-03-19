@@ -1,7 +1,7 @@
 # Hi there, I'm Ezaryf! 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=200&section=header&text=Ezaryf&fontSize=90&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=200&section=header&text=Ezaryf&fontSize=90&animation=fadeIn&fontAlignY=38" />
 </p>
 
 <p align="center">
@@ -49,7 +49,7 @@ I am a passionate and dynamic **Software Developer** driven by the thrill of cra
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ezaryf&theme=tokyonight" alt="Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ezaryf&theme=tokyonight" alt="Streak Stats" />
 </p>
 
 ---
